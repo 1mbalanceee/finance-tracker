@@ -1,0 +1,35 @@
+### Maven ###
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### Spring Tool Suite (STS) ###
+.apt_generated
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iml
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Общие исключения ###
+*.log
+*.tmp
+*.class
+/bin/
+/out/
+*.jar
+*.war
+*.ear
+.DS_Store
+node_modules/
